@@ -1,0 +1,27 @@
+# Latent Causal Flow (LCF) Requirements
+# Version: 0.3.0
+
+# Core Deep Learning
+torch>=2.0.0
+
+# Numerical Computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Optional Dependencies
+# pytorch-lightning>=2.0.0
+# omegaconf>=2.3.0
+# hydra-core>=1.3.0
+# torchdiffeq>=0.2.3
